@@ -1,0 +1,132 @@
+{
+  "$100K-$200K": [
+    {
+      "plan_name": "Qualified 20",
+      "qualified_lead_pm": "20",
+      "price_per_lt": "$69",
+      "total_qualified_lp": "$1380",
+      "total_platform_price": "$299",
+      "final_package_price": "$1679"
+    },
+    {
+      "plan_name": "Qualified 40",
+      "qualified_lead_pm": "40",
+      "price_per_lt": "$67",
+      "total_qualified_lp": "$2680",
+      "total_platform_price": "$599",
+      "final_package_price": "$3279"
+    },
+    {
+      "plan_name": "Qualified 80",
+      "qualified_lead_pm": "80",
+      "price_per_lt": "$63",
+      "total_qualified_lp": "$5040",
+      "total_platform_price": "$799",
+      "final_package_price": "$5830"
+    }
+  ],
+  "$200K-$300K": [
+    {
+      "plan_name": "Qualified 20",
+      "qualified_lead_pm": "20",
+      "price_per_lt": "$79",
+      "total_qualified_lp": "$1580",
+      "total_platform_price": "$299",
+      "final_package_price": "$1879"
+    },
+    {
+      "plan_name": "Qualified 40",
+      "qualified_lead_pm": "40",
+      "price_per_lt": "$77",
+      "total_qualified_lp": "$3080",
+      "total_platform_price": "$599",
+      "final_package_price": "$3679"
+    },
+    {
+      "plan_name": "Qualified 80",
+      "qualified_lead_pm": "80",
+      "price_per_lt": "$72",
+      "total_qualified_lp": "$5760",
+      "total_platform_price": "$799",
+      "final_package_price": "$6559"
+    }
+  ],
+  "$300K-$400K": [
+    {
+      "plan_name": "Qualified 20",
+      "qualified_lead_pm": "20",
+      "price_per_lt": "$99",
+      "total_qualified_lp": "$1980",
+      "total_platform_price": "$299",
+      "final_package_price": "$2279"
+    },
+    {
+      "plan_name": "Qualified 40",
+      "qualified_lead_pm": "40",
+      "price_per_lt": "$96",
+      "total_qualified_lp": "$3840",
+      "total_platform_price": "$599",
+      "final_package_price": "$4439"
+    },
+    {
+      "plan_name": "Qualified 80",
+      "qualified_lead_pm": "80",
+      "price_per_lt": "$90",
+      "total_qualified_lp": "$7200",
+      "total_platform_price": "$799",
+      "final_package_price": "$7999"
+    }
+  ],
+  "$400K-$500K": [
+    {
+      "plan_name": "Qualified 20",
+      "qualified_lead_pm": "20",
+      "price_per_lt": "$109",
+      "total_qualified_lp": "$2180",
+      "total_platform_price": "$299",
+      "final_package_price": "$2479"
+    },
+    {
+      "plan_name": "Qualified 40",
+      "qualified_lead_pm": "40",
+      "price_per_lt": "$106",
+      "total_qualified_lp": "$4240",
+      "total_platform_price": "$599",
+      "final_package_price": "$4839"
+    },
+    {
+      "plan_name": "Qualified 80",
+      "qualified_lead_pm": "80",
+      "price_per_lt": "$99",
+      "total_qualified_lp": "$7920",
+      "total_platform_price": "$799",
+      "final_package_price": "$8719"
+    }
+  ],
+  "$500K+": [
+    {
+      "plan_name": "Qualified 20",
+      "qualified_lead_pm": "20",
+      "price_per_lt": "$129",
+      "total_qualified_lp": "$2580",
+      "total_platform_price": "$299",
+      "final_package_price": "$2879"
+    },
+    {
+      "plan_name": "Qualified 40",
+      "qualified_lead_pm": "40",
+      "price_per_lt": "$125",
+      "total_qualified_lp": "$5000",
+      "total_platform_price": "$599",
+      "final_package_price": "$5599"
+    },
+    {
+      "plan_name": "Qualified 80",
+      "qualified_lead_pm": "80",
+      "price_per_lt": "$117",
+      "total_qualified_lp": "$9360",
+      "total_platform_price": "$799",
+      "final_package_price": "$10,159"
+    }
+  ]
+}
